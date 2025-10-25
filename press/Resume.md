@@ -1,14 +1,9 @@
 # Rainbow Strongman — Resume (press kit)
 
-Official site: https://lovetranscendsreality.org
+**Download the PDF resume:** [Rainbow_Strongman_Resume.pdf](Rainbow_Strongman_Resume.pdf)\
+**Website:** https://lovetranscendsreality.org
 
-This repository press folder holds the public resume. If you have a PDF version, add it to this folder as `Rainbow_Strongman_Resume.pdf` and link it from the README.
+Roles: Performer, Business Consultant, Partnerships, Collaboration, Sponsorships, Promotions.
+Media & Inquiries: rainbowjobs@miraclenetwork.love
 
-**Snapshot**
-- Roles: Performer, Business Consultant, Partnerships, Collaboration, Sponsorships, Promotions.
-- HQ: USA.
-- Mission: Build LT Social (Miracle Network) and reimagine ownership economy.
-
-**Media & Inquiries**
-- General: rainbowjobs@miraclenetwork.love
-- Website: https://lovetranscendsreality.org
+(If the PDF link above shows an empty file, upload/replace it in this folder as `Rainbow_Strongman_Resume.pdf`.)

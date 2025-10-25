@@ -1,1 +1,5 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='1440' height='2400'><text x='40' y='80' font-family='Inter' font-size='36'>Press — placeholder</text></svg>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1440' height='2400'>
+  <text x='40' y='80' font-family='Inter' font-size='36'>Press</text>
+  <a xlink:href='https://lovetranscendsreality.org'><text x='40' y='140' font-family='Inter' font-size='24'>Website: lovetranscendsreality.org</text></a>
+  <a xlink:href='https://github.com/Rainbowjobs94/test-rainbow-jobs-repo/blob/main/press/Rainbow_Strongman_Resume.pdf'><text x='40' y='180' font-family='Inter' font-size='24'>Download Resume (PDF)</text></a>
+</svg>
