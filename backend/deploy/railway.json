@@ -1,0 +1,27 @@
+{
+  "services": [
+    {
+      "name":"db",
+      "source":"railway",
+      "type":"postgres"
+    },
+    {
+      "name":"server",
+      "envVars":{
+        "DATABASE_URL":{
+          "fromService":"db",
+          "name":"DATABASE_URL"
+        }
+      }
+    },
+    {
+      "name":"mint",
+      "envVars":{
+        "DATABASE_URL":{
+          "fromService":"db",
+          "name":"DATABASE_URL"
+        }
+      }
+    }
+  ]
+}
