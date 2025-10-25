@@ -1,5 +1,8 @@
 # Love Transcends — Deploy & Web Repo
 
+**Website:** https://lovetranscendsreality.org
+**Resume (press):** [/press/Resume.md](press/Resume.md)
+
 This repo bundles:
 - backend/ — Node/Express API + Stripe Checkout + Postgres schema + mint worker (Amoy) + deploy configs (Railway/Render/Fly) + CI scaffold.
 - wix/ — Velo snippet for Invest (demo) integration.
